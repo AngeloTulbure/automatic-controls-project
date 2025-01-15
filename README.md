@@ -23,6 +23,6 @@ The project is developed in six sequential steps:
   
 5) Control system test on the nonlinear model
 
-For the detailed explanation of the requirements of the project can be found [here], while the explantion of the implementaion of the project can be found [here]
+For the detailed explanation of the requirements of the project can be found [here](), while the explantion of the implementaion of the project can be found [here]().
 
-The first four steps were done in MATLAB and can be found [here], while the last step was done in Simulink and can be found [here]
+The first four steps were done in MATLAB and can be found [here](https://github.com/AngeloTulbure/automatic-controls-project/blob/main/Angelo_Tulbure_Project_MATLAB.m), while the last step was done in Simulink and can be found [here](https://github.com/AngeloTulbure/automatic-controls-project/blob/main/Angelo_Tulbure_Project_Simulink.slx).
