@@ -1,7 +1,6 @@
 # Monitoring drug treatment against cancer
 
 The project requires the use of automatic control techniques for the pharmacological treatment of cells carcinogenic in laboratory environments.
-
 The project is developed in six sequential steps:
 
 1) System in state form and linearization:
